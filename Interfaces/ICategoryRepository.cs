@@ -7,3 +7,5 @@ namespace WebApi_app.Interfaces
         List<Category> GetCategories();
     }
 }
+
+//Update 1 added successfully
